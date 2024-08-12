@@ -28,10 +28,11 @@ const bignum= 1234567890987n; //BigInt
 
 const color = ["Orange", "Pink", "Green", "Olive"]; //array
 
+//object
 let myobj= {
     name: "Kriti",
     age: 22,
-} //object
+} 
 
 const myFunction = function() {
     console.log("Hello World");
