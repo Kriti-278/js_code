@@ -30,7 +30,7 @@ console.log(JsUser[sym]);
 //for changing any value
 
 JsUser.gmail = "kk@gmail.com";
-console.log(JsUser);
+// console.log(JsUser);
 //we want to freeze something that no other user can change that so for that,
 
 // Object.freeze(JsUser);
