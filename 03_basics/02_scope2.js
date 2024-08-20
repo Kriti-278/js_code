@@ -18,7 +18,7 @@ function addone(num) {
 addone(5);
 
 //or
-console.log(addone(5)); // accessing the function or variable before it's initalized is called hoisting
+console.log(addone(5)); //accessing the function or variable before it's initalized is called hoisting
 function addone(num) {
     return num + 1;
 }
